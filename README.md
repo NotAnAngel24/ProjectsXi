@@ -1,2 +1,2 @@
 # ProjectsXi
-I have made this repository for me to submit my assignments and other projects. 
+I have made this repository for me to organise and easily navigate my works
